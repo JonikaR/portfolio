@@ -10,4 +10,4 @@ I am interested to learn more about data visualisations in this course. How to c
 ### Assignment 1 : Setting up your online portfolio 
 
 
-[Assignment 2 part](/dataviz2.md)
+### [Assignment 2 part](/dataviz2.md)
