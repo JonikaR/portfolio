@@ -12,8 +12,8 @@ I will be updating this repository with the different assignments I work on in t
 
 ### [Assignment 2: Visualizing government debt](/dataviz2.md)
 
-## [In Class Tableau Exercise](/dataviz3.html)
+### [In Class Tableau Exercise](/dataviz3.html)
 
-### Assignment 3: Critique by Design
+### Assignment 3 & 4: Critique by Design
 
-### Assignment 4: Critique by Design
+### Assignment 5
