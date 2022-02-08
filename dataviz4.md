@@ -18,6 +18,13 @@ In this post, I will be critiquing the visualisation used under the heading:
 
 # Step two: critique the data visualization
 
+In this visualization they are trying to show overall shift in global plastic waste disposal method over time in percentage. There are three methods shown and they all add up to 100% across all years. In order to show this shift across the time they have used an area graph. 
+Area graphs are usually used to changes across time. By looking at the visualization I am clearly able to make out that the plastic being discarded has been reducing and incinerated and recycled has been increasing since the first decade, which is helpful to take a generic idea of trends.
+However, because this is an area graph that is stacked up for each category adding up to 100, it is very difficult to make out the values of each category in each year and hence making it very less useful for the intended audience. For someone making a quick reference to this, it can be hard to understand, or they might end up sharing wrong values.
+
+This visualization is a small part of a larger topic plastic pollution. Since the title of the topic is generic, I believe it will be accessible very easily for anyone trying to know more about the plastic pollution in the world. More specifically researchers, people in education, students, environmentalists, organizations in climate change or employees in sustainability department of all organizations would be primary audience for this tool. 
+This visualization is not that effective in reaching that audience as they will not be able to make out the percentage of each method of plastic disposal every year. The topic in the title mentions percentages for a few years however here the data is shown only if they would click on it which not very intuitive for everyone.
+
 # Step three: wireframe a solution
 
 As per my critiquing, the chart they have used to show the change in plastic disposal methods over time is stacked area graph. It is able to show the ratio of how one category is increasing over other but it is not able to capture the values of each category in a particular year. It would also be confusing for a lot of audience who is not usually exposed to different kinds of data visualizations. 
