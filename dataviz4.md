@@ -26,23 +26,37 @@ Therefore, in my wireframe I have used group of column charts in which it can be
 
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/71149402/152909096-85e61809-930c-4911-8c14-26d308d54246.png">
 
-
 # Step four: Test the solution
 
-Primary Feedback
+#### Primary Feedback:
+
+In my primary feedback I was shared that the visualization is over all very readable and is easy to understand. Both my reviewers were able to share that the intended information was to understand the disposal methods of plastic globally over the years. They mentioned they were able to follow the trends for each of the categories. They did not find a lot of things confusing but had the following feedback:
+
+- I should use consistent gap among the years shown for easier understanding.
+- I should use an interval of 10 for the percentages instead of 20.
+- The first reading has '0' value for Recycled and so the bar is missing and it makes it confusing.
+- I was told 'green' was the apt color for 'Recycled' category, however 'Red' used for 'Incinerated' category was a little confusing.
+- I should include titles for each axis.
+- I could add a trend line to show how the bars are increasing and decreasing.
+- I can also use stacked column charts.
+
+They mentioned the intended audience would be able to easily read the visualization.
+
+Based on the Primary feedback recieved I had created the grouped column charts in https://app.flourish.studio/projects.
+
+I included majority feedback except the following :
+- changing how I represent '0' value as I did not think there was another way to represent the data. 
+- I did not use the stacked column chart as I realised it was giving the same effect as the original stacked area chart and it was difficult to find individual values.
 
 
-#### Person 1
+#### Secondary Feedback:
 
-#### Person 2
-
-#### Person 3
-
-#### Person 4
+The secondary feedback in class was not majorly around the visualizations, hence I could not make a lot of changes to the earlier version. Some of the points included were:
+- The trend lines are not very helpful because the data was clear enough. It was rather making the visualization more crowded. I used this and changed back to just grouped column chart.
+- If it was possible I should show the total quantities of the plastic waste disposal every year to give more context on the percentage share. I did not have this data from the orginal source and hence I could not include it. However it would have been an interesting exploration given the right dataset.
 
 # Step five: Build your solution
 
+After incorporating, all the feedback I have published the following visualizatrion:
 <div class="flourish-embed flourish-chart" data-src="visualisation/8629165"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-Secondary Feedback
