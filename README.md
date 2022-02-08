@@ -14,6 +14,6 @@ I will be updating this repository with the different assignments I work on in t
 
 ### [In Class Tableau Exercise](/dataviz3.html)
 
-### Assignment 3 & 4: Critique by Design
+### [Assignment 3 & 4: Critique by Design] (/dataviz4.md)
 
 ### Assignment 5
