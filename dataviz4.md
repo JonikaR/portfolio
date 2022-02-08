@@ -1,6 +1,12 @@
 # Plastic Pollution
 
+Having stayed in multiple cities, I was exposed to different kinds of municipalities. Due to this, from some time I have been interested in learning about plastic usage, the effects of different ways its disposed and sustainable options for a lot of things.
+
+Due to this I started to look for data related to plastic pollution. I liked this data because it was showing the trend over time from 1980 and how plastic disposal has shifted.
+
 ## How do we dispose of our plastic?
+
+### The following chart talks about share of global plastic waste that is discarded, recycled or incinerated from 1980 through to 2015. How has global plastic waste disposal method changed over time?
 
 <iframe src="https://ourworldindata.org/grapher/global-plastic-fate" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -22,3 +28,5 @@
 
 
 ### Data Visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8629165"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
