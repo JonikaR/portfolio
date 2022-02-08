@@ -45,7 +45,7 @@ They mentioned the intended audience would be able to easily read the visualizat
 Based on the Primary feedback recieved I had created the grouped column charts in https://app.flourish.studio/projects.
 
 I included majority feedback except the following :
-- changing how I represent '0' value as I did not think there was another way to represent the data. 
+- Changing how I represent '0' value as I did not think there was another way to represent the data. 
 - I did not use the stacked column chart as I realised it was giving the same effect as the original stacked area chart and it was difficult to find individual values.
 
 
