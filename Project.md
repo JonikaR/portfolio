@@ -27,7 +27,7 @@ Current statuses of schols [worldwide]
 
 Closure of schools by Continents:
 
-
+![WhatsApp Image 2022-02-13 at 11 58 58 PM](https://user-images.githubusercontent.com/71149402/153803048-651cab00-1376-4dd8-94a6-17e4138d36b3.jpeg)
 
 
 ### Method:
