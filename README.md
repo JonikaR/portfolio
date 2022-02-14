@@ -1,5 +1,5 @@
 ## About Me
-I am JonikaR, a masters student  of Public Policy and Management: Data ANalytics at Heinz College, Carnegie Mellon University. This is my Public Portfolio.
+I am JonikaR, a masters student  of Public Policy and Management: Data Analytics at Heinz College, Carnegie Mellon University. This is my Public Portfolio.
 I am creating this in my Spring 22 course - Telling Stories with Data. 
 
 ## What I hope to learn
@@ -16,4 +16,4 @@ I will be updating this repository with the different assignments I work on in t
 
 ### [Assignment 3 & 4: Critique by Design](/dataviz4.md)
 
-### Assignment 5
+### [Assignment 5: Part I: Final project]
