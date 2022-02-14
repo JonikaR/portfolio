@@ -37,9 +37,7 @@ To publish this project results, I will be using Shorthand, Tableau and ArcGis. 
 
 ### Data Sources:
 
-I intend to highlight some key points on how the duration of the school closures has been directly related to the income-levels in different countries and the vaccination rate. Through this project I would like to conclude the importance of keeping the schools open and increasing the vaccination across all countries to ensure that. I also 
-
-
+I intend to highlight some key points on how the duration of the school closures has been directly related to the income-levels in different countries and the vaccination rate. I am going to use the following public source datasets from different resources including UNESCO and World Bank which have data at world level. THe data sets are dates till Jan 2022.
 
 1) Global school closures COVID-19 by UNESCO (https://data.humdata.org/dataset/global-school-closures-covid19)
 
