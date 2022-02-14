@@ -16,4 +16,6 @@ I will be updating this repository with the different assignments I work on in t
 
 ### [Assignment 3 & 4: Critique by Design](/dataviz4.md)
 
-### [Assignment 5: Part I: Final project]
+### [Assignment 5: Part I: Final project](/Project.md)
+
+### [Final project](/Project.md)
