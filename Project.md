@@ -39,10 +39,10 @@ To publish this project results, I will be using Shorthand, Tableau and ArcGis. 
 
 I intend to highlight some key points on how the duration of the school closures has been directly related to the income-levels in different countries and the vaccination rate. I am going to use the following public source datasets from different resources including UNESCO and World Bank which have data at world level. THe data sets are dates till Jan 2022.
 
-1) [Global school closures COVID-19 by UNESCO](https://data.humdata.org/dataset/global-school-closures-covid19)
+1) Global school closures COVID-19 by UNESCO [https://data.humdata.org/dataset/global-school-closures-covid19](https://data.humdata.org/dataset/global-school-closures-covid19)
 
-2) [Covid vaccinations](https://ourworldindata.org/covid-vaccinations)
+2) Covid vaccinations [https://ourworldindata.org/covid-vaccinations](https://ourworldindata.org/covid-vaccinations)
 
-3) New World Bank country classifications by income level: 2021-2022 (https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)
+3) New World Bank country classifications by income level: 2021-2022 [https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups] (https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)
 
-4) Covid19 and its impact on students by Kaggle (https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students)
+4) Covid19 and its impact on students by Kaggle [https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students](https://www.kaggle.com/kunal28chaturvedi/covid19-and-its-impact-on-students)
